@@ -1,7 +1,7 @@
 # YI JONGMIN
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=john0513)](https://solved.ac/john0513/)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickennight&show_icons=true&theme=radical)
 # Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
