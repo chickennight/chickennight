@@ -1,7 +1,7 @@
 # YI JONGMIN
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=john0513)](https://solved.ac/john0513/)
-![chickennight's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkskekzzz&show_icons=true) 
+![chickennight's GitHub stats](https://github-readme-stats.vercel.app/api?username=chickennight&show_icons=true) 
 
 # Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
@@ -14,6 +14,7 @@
 # Frameworks
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![SpringBootJPA](https://img.shields.io/badge/springbootjpa-6DB33F.svg?&style=for-the-badge&logo=SpringBootJPA&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
