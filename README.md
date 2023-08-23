@@ -1,4 +1,4 @@
-# KIM JAEA
+# YI JONGMIN
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=john0513)](https://solved.ac/john0513/)
 
@@ -16,8 +16,7 @@
 # Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-Code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-525C86.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/intellij%20idea-525C86.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/intellij%20idea-FFFFFF.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=black)
 
 # Projects
 [물류 자동화 프로젝트](https://github.com/chickennight/common-project)
