@@ -14,7 +14,7 @@
 # Frameworks
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![JPA](https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=SpringBootJPA&logoColor=white)
+![JPA](https://img.shields.io/badge/jpa-6DB33F.svg?&style=for-the-badge&logo=JPA&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
