@@ -27,6 +27,7 @@
 ![IntelliJ](https://img.shields.io/badge/intellij%20idea-FFFFFF.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=black)
 
 # Projects
-[물류 자동화 프로젝트](https://github.com/chickennight/common-project)
+![물류 자동화 프로젝트](https://github.com/chickennight/common-project)
 
-
+# Notion
+![CI/CD](https://four-columnist-4da.notion.site/CI-CD-c6c2f8ef592341adaf15c8740019fcfb?pvs=4)
