@@ -27,7 +27,7 @@
 ![IntelliJ](https://img.shields.io/badge/intellij%20idea-FFFFFF.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=black)
 
 # Projects
-[물류 자동화 프로젝트](https://github.com/chickennight/Turtle_Logistics)
+[물류 자동화 프로젝트](https://github.com/chickennight/Turtle_Logistics)   
 [삼성전자 연계 오픈소스 프로젝트](https://github.com/orgs/GOOD-I-DEER/repositories)
 
 # Notion
