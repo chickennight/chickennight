@@ -28,7 +28,7 @@
 
 # Projects
 [물류 자동화 프로젝트](https://github.com/chickennight/Turtle_Logistics)   
-[삼성전자 연계 오픈소스 프로젝트](https://github.com/orgs/GOOD-I-DEER/repositories)
+[삼성전자 연계 오픈소스 프로젝트](https://github.com/orgs/GOOD-I-DEER/repositories) [@GOOD-I-DEER/node-red-contrib-vision-ai](https://www.npmjs.com/package/@good-i-deer/node-red-contrib-vision-ai)
 
 # Notion
 [CI/CD](https://four-columnist-4da.notion.site/CI-CD-c6c2f8ef592341adaf15c8740019fcfb?pvs=4)
