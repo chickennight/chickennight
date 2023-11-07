@@ -1,5 +1,4 @@
-# YI JONGMIN   
-([포트폴리오](https://four-columnist-4da.notion.site/SW-b64b14cf48c34ecd8c72edd61cde6939?pvs=4))
+# YI JONGMIN ([포트폴리오](https://four-columnist-4da.notion.site/SW-b64b14cf48c34ecd8c72edd61cde6939?pvs=4))
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=john0513)](https://solved.ac/john0513)
 
