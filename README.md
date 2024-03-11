@@ -44,4 +44,4 @@
 [시계토끼(역삼역 1번출구)](https://github.com/Yeoksam-Station-Exit-1)   
 
 ## Notion
-[CI/CD](https://four-columnist-4da.notion.site/CI-CD-c6c2f8ef592341adaf15c8740019fcfb?pvs=4)   
+[Single Server CI/CD](https://chickennight.notion.site/CI-CD-c6c2f8ef592341adaf15c8740019fcfb?pvs=4)   
