@@ -18,7 +18,7 @@
 ## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![REDIS](https://img.shields.io/badge/REDIS-%23D24939.svg?&style=for-the-badge&logo=REDIS&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6DB33F.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-009639.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 
 ## Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
