@@ -19,6 +19,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![REDIS](https://img.shields.io/badge/REDIS-%23D24939.svg?&style=for-the-badge&logo=REDIS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-009639.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0052CC.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 ## Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -31,7 +32,7 @@
 ![Amazon EC2](https://img.shields.io/badge/amazon%20ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-007396?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) 
-![Git](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white) 
 
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-Code&logoColor=white)
