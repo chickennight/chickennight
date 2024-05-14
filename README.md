@@ -42,7 +42,8 @@
 ## Projects
 [풀필먼트 시스템 구축 프로젝트(터틀로직스틱스)](https://github.com/chickennight/TurtleLogistics)   
 [삼성전자 연계 오픈소스 프로젝트](https://github.com/orgs/GOOD-I-DEER/repositories)  [@GOOD-I-DEER/node-red-contrib-vision-ai](https://www.npmjs.com/package/@good-i-deer/node-red-contrib-vision-ai)   
-[시계토끼(역삼역 1번출구)](https://github.com/Yeoksam-Station-Exit-1)   
+[시계토끼](https://github.com/Yeoksam-Station-Exit-1)   
+[워드스케치](https://github.com/orgs/PANTS-GOORM)
 
 ## Notion
 [Single Server CI/CD](https://chickennight.notion.site/CI-CD-c6c2f8ef592341adaf15c8740019fcfb?pvs=4)   
