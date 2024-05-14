@@ -41,7 +41,7 @@
 
 ## Projects
 [터틀로직스틱스](https://github.com/chickennight/TurtleLogistics)   
-[삼성전자 연계 오픈소스 프로젝트](https://github.com/orgs/GOOD-I-DEER/repositories) --- [@GOOD-I-DEER/node-red-contrib-vision-ai](https://www.npmjs.com/package/@good-i-deer/node-red-contrib-vision-ai)   
+[봉화로](https://github.com/orgs/GOOD-I-DEER/repositories) --- [@GOOD-I-DEER/node-red-contrib-vision-ai](https://www.npmjs.com/package/@good-i-deer/node-red-contrib-vision-ai)   
 [시계토끼](https://github.com/Yeoksam-Station-Exit-1)   
 [워드스케치](https://github.com/orgs/PANTS-GOORM)
 
