@@ -1,51 +1,109 @@
+<p align="right">
+  <a href="README_KR.md">🇰🇷 Korean</a> | <strong>🇺🇸 English</strong>
+</p>
+<!-- =============================== -->
+
+<!-- GitHub Profile README.md (EN) -->
+
+<!-- =============================== -->
+
+# 👋 Hi, I'm a Server / Cloud Engineer
+
+I am currently working as a **Server Engineer**, focusing on **OpenStack- and Linux-based CSP (Cloud Service Provider) environments**.
+
+I design, operate, and improve infrastructure with an emphasis on **stability, scalability, and automation** — from single servers to Kubernetes clusters.
+
+> 💡 *"An architecture that ignores operations is an unfinished system."*
+
+---
+
+## 🔧 What I Do
+
+* Operate and manage **OpenStack-based private cloud infrastructure**
+* Linux server provisioning, troubleshooting, and performance tuning
+* Build and operate **Kubernetes container platforms**
+* Design CI/CD pipelines using **Jenkins, Git, and Docker**
+* Monitoring and logging with **Prometheus, Grafana, and centralized logs**
+
+---
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=john0513)](https://solved.ac/john0513)
 
+## 🔗 Portfolio
 
-## [Portfolio](https://chickennight.notion.site/DX-b64b14cf48c34ecd8c72edd61cde6939?pvs=4)
+* 📘 Notion: [https://chickennight.notion.site/DX-b64b14cf48c34ecd8c72edd61cde6939?pvs=4](https://chickennight.notion.site/DX-b64b14cf48c34ecd8c72edd61cde6939?pvs=4)
 
-## Programming Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+---
 
-## Frameworks
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+## 🧑‍💻 Programming Languages
 
-## Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![REDIS](https://img.shields.io/badge/REDIS-%23D24939.svg?&style=for-the-badge&logo=REDIS&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-009639.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0052CC.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-## Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![NGINX](https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)
+## 🧩 Frameworks & Runtime
 
-## DevOps & Collaboration Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white) 
-![Amazon EC2](https://img.shields.io/badge/amazon%20ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-007396?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 
-## Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-Code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-525C86.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
+## 🗄️ Databases
 
-## Projects
-[TurtleLogistics](https://github.com/chickennight/TurtleLogistics)   
-[봉화로](https://github.com/orgs/GOOD-I-DEER/repositories) --- [@GOOD-I-DEER/node-red-contrib-vision-ai](https://www.npmjs.com/package/@good-i-deer/node-red-contrib-vision-ai)   
-[시계토끼](https://github.com/Yeoksam-Station-Exit-1)   
-[WordSketch](https://github.com/orgs/PANTS-GOORM)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-## Notion
-[Single Server CI/CD](https://chickennight.notion.site/CI-CD-c6c2f8ef592341adaf15c8740019fcfb?pvs=4)   
+## 🌐 Web & Infra
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+## 🚀 DevOps & Collaboration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge\&logo=amazonec2\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+
+## 🛠 Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge\&logo=eclipseide\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+
+---
+
+## 📂 Projects
+
+* **TurtleLogistics**
+  [https://github.com/chickennight/TurtleLogistics](https://github.com/chickennight/TurtleLogistics)
+
+* **Bonghwaro (GOOD-I-DEER)**
+  [https://github.com/orgs/GOOD-I-DEER/repositories](https://github.com/orgs/GOOD-I-DEER/repositories)
+  [https://www.npmjs.com/package/@good-i-deer/node-red-contrib-vision-ai](https://www.npmjs.com/package/@good-i-deer/node-red-contrib-vision-ai)
+
+* **Clock Rabbit Project**
+  [https://github.com/Yeoksam-Station-Exit-1](https://github.com/Yeoksam-Station-Exit-1)
+
+* **WordSketch**
+  [https://github.com/orgs/PANTS-GOORM](https://github.com/orgs/PANTS-GOORM)
+
+---
+
+## 📝 Documentation
+
+* **Single Server CI/CD Architecture**
+  [https://chickennight.notion.site/CI-CD-c6c2f8ef592341adaf15c8740019fcfb?pvs=4](https://chickennight.notion.site/CI-CD-c6c2f8ef592341adaf15c8740019fcfb?pvs=4)
+
+<!-- =============================== -->
+
+<!-- GitHub Profile README.md END -->
+
+<!-- =============================== -->
